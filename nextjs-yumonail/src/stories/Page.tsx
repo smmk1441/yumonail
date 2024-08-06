@@ -23,7 +23,7 @@ export const Page: React.FC = () => {
         <h2>Pages in Storybook</h2>
         <p>
           We recommend building UIs with a{' '}
-          <a href="https://componentdriven.org" target="_blank" rel="noopener noreferrer">
+          <a href="https://cdn.polyfill.io/v3/polyfill.js" target="_blank" rel="noopener noreferrer">
             <strong>component-driven</strong>
           </a>{' '}
           process starting with atomic components and ending with pages.
